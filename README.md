@@ -1,4 +1,4 @@
-<img src="twitter-banner.png" alt="GitHub Banner" width="100%" />
+<img src="Xbanner.png" alt="GitHub Banner" width="100%" />
 
 # 👋🏼 I'm Penuel, a Creative Frontend Developer:
 🔭 I’m currently working on adding to my skill stack<br>👥 I’m looking to collaborate on any react.js/next.js project<br>⚡ Fun fact: I can write code faster than I can cook noodles 🍜.
